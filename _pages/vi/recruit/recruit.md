@@ -11,7 +11,11 @@ We work anywhere in the world, in any time zone. Non-English speakers welcomed.
 
 ## If you want to create technology that solves problems.
 
+<<<<<<< HEAD
 Sari is searching for a few **brilliant minds** to join our hunt for impact through technology.
+=======
+Stride is searching for a few **brilliant minds** to join our hunt for impact through technology.
+>>>>>>> 9d27c809623756cc7a78476a45597ff6021c8958
 
 ## If you are hungry for your footprint in the digital era.
 
